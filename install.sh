@@ -191,11 +191,11 @@ elif [ "$SELECT_THEME" -eq 3 ]; then
   echo -e "                                                                   "
 
     # Menanyakan informasi kepada pengguna untuk tema Enigma
-    echo -e "${YELLOW}Masukkan link untuk 'LINK_BC_BOT': ${NC}"
+    echo -e "${YELLOW}Masukkan link wa (https://wa.me...) : ${NC}"
     read LINK_WA
-    echo -e "${YELLOW}Masukkan nama untuk 'NAMA_OWNER_PANEL': ${NC}"
+    echo -e "${YELLOW}Masukkan link group (https://.....) : ${NC}"
     read LINK_GROUP
-    echo -e "${YELLOW}Masukkan link untuk 'LINK_GC_INFO': ${NC}"
+    echo -e "${YELLOW}Masukkan link channel (https://...) : ${NC}"
     read LINK_CHNL
 
     # Mengganti placeholder dengan nilai dari pengguna
