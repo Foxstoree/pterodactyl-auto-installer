@@ -25,7 +25,6 @@ bash <(curl -s https://raw.githubusercontent.com/Foxstoree/pterodactyl-auto-inst
 | Debian           | 10      | :white_check_mark: |
 |                  | 11      | :white_check_mark: |
 |                  | 12      | :white_check_mark: |
-| ---------------- | ------- | ------------------ |
 
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
