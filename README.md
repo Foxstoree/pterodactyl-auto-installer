@@ -1,6 +1,7 @@
 # :bird: pterodactyl-auto-installer
 
 
+
 ## AUTO INSTALLER SCRIPT
 
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
