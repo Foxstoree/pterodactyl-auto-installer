@@ -16,26 +16,21 @@ bash <(curl -s https://raw.githubusercontent.com/Foxstoree/pterodactyl-auto-inst
 - thema enigma
 - uninstall thema
 
-### Supported panel and wings operating systems
+### system support
 
-| Operating System | Version | Supported          | PHP Version |
-| ---------------- | ------- | ------------------ | ----------- |
-| Ubuntu           | 14.04   | :red_circle:       |             |
-|                  | 16.04   | :red_circle: \*    |             |
-|                  | 18.04   | :red_circle: \*    | 8.1         |
-|                  | 20.04   | :white_check_mark: | 8.1         |
-|                  | 22.04   | :white_check_mark: | 8.1         |
-| Debian           | 8       | :red_circle: \*    |             |
-|                  | 9       | :red_circle: \*    |             |
-|                  | 10      | :white_check_mark: | 8.1         |
-|                  | 11      | :white_check_mark: | 8.1         |
-|                  | 12      | :white_check_mark: | 8.1         |
-| CentOS           | 6       | :red_circle:       |             |
-|                  | 7       | :red_circle: \*    |             |
-|                  | 8       | :red_circle: \*    |             |
-| Rocky Linux      | 8       | :white_check_mark: | 8.1         |
-|                  | 9       | :white_check_mark: | 8.1         |
-| AlmaLinux        | 8       | :white_check_mark: | 8.1         |
-|                  | 9       | :white_check_mark: | 8.1         |
+| Operating System | Version | Supported          |
+| ---------------- | ------- | ------------------ |
+| Ubuntu           | 20.04   | :white_check_mark: |
+|                  | 22.04   | :white_check_mark: |
+| Debian           | 10      | :white_check_mark: |
+|                  | 11      | :white_check_mark: |
+|                  | 12      | :white_check_mark: |
+| ---------------- | ------- | ------------------ |
 
-_\* Indicates an operating system and release that previously was supported by this script._
+_\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
+
+## Contributors ✨
+
+Copyright (C) 2023 - 2024, Foxstore, @foxstore_id.
+
+- Created by [ FOXSTORE ](https://github.com/Foxstoree)
