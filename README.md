@@ -1,14 +1,6 @@
 
-## ATTENTION
+## AUTO INSTALLER THEMA
 
 ```
-Dikarenakan banyak yang bilang auto
-installer eror kami sementara menghapus
-semua repositori untuk waktu yang belum
-di tentukan , untuk selanjutnya kami akan
-informasikan melalui youtube kami
-
-mohon maaf dan terima kasih
-
-- minfox
+bash <(curl -s https://raw.githubusercontent.com/Foxstoree/pterodactyl-auto-installer/main/installer.sh)
 ```
