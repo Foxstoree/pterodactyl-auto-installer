@@ -3,9 +3,9 @@
 script di buat untuk mempermudah pemasangan thema di pterodactyle
 hanya dengan 1 cmd bisa dengan otomatis menerapkan thema.
 
-Menemuka kesulitan? chat [Foxstore](https://pterodactyl.io/) here.
+Menemuka kesulitan? chat [Foxstore](https://wa.me/6285372277748) di sini.
 
-## Features
+## LIST FITUR
 
 - Theme Enigma
 - Stellar
