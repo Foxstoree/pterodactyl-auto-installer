@@ -10,6 +10,9 @@ Menemuka kesulitan? chat [Foxstore](https://wa.me/6285372277748) di sini.
 - Theme Enigma
 - Stellar
 - Billing
+- Nightcore ( ongoing )
+- install panel ( on going )
+- install ctrl panel ( on going )
 - uninstall Thema
 
 ## AUTO INSTALLER THEMA
