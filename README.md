@@ -7,7 +7,7 @@ Menemuka kesulitan? chat [Foxstore](https://wa.me/6285372277748) di sini.
 
 ## LIST FITUR
 
-- Theme Enigma
+- Enigma
 - Stellar
 - Billing
 - Nightcore ( ongoing )
