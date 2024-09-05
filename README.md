@@ -18,4 +18,4 @@ Menemuka kesulitan? chat [Foxstore](https://pterodactyl.io/) here.
 bash <(curl -s https://raw.githubusercontent.com/Foxstoree/pterodactyl-auto-installer/main/installer.sh)
 ```
 ## AKSES TOKEN
-untuk akses token anda bisa dapatkan di [disini](https://t.me/@Ceaserfox_bot)
+untuk akses token anda bisa dapatkan di [disini](https://t.me/Ceaserfox_bot)
