@@ -18,7 +18,7 @@ Menemuka kesulitan? chat [Foxstore](https://wa.me/6285372277748) di sini.
 ## AUTO INSTALLER THEMA
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Foxstoree/pterodactyl-auto-installer/main/installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/Foxstoree/pterodactyl-auto-installer/main/installer.sh.x)
 ```
 ## AKSES TOKEN
 untuk akses token anda bisa dapatkan di [disini](https://t.me/Ceaserfox_bot)
